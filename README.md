@@ -24,7 +24,7 @@
 <div style="display: inline_block">
 	<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 	<img align="center" alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-	<img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+	<img align="center" alt="openSUSE" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white">
 </div>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=Where+to+contact;Onde+entrar+em+contato)](https://git.io/typing-svg)
