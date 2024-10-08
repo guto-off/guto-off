@@ -9,6 +9,8 @@
 - 😎 Explorando novas tecnologias e sempre descobrindo novidades.
 - 📕 Estudando informática para internet na Etec de Santa Isabel.
 - 🤓 Fã de informática, animes e videogames.
+- ✨ Re: Zero Fã
+- 💙 Remu-rin Lover
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=Languages+%26+Tools;Linguagens+%26+Ferramentas)](https://git.io/typing-svg)
 
