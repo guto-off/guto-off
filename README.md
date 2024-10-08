@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=F7F7F7&vCenter=true&width=450&height=60&lines=Hello%2C+Gustavo+is+here!;Ol%C3%A1%2C+Gustavo+est%C3%A1+aqui!)](https://git.io/typing-svg)
 
 <div align="center">
-	<img alt="lain" src="https://github.com/user-attachments/assets/0d77c27a-ca0a-47e1-92a6-3816e4b9ac49">
+	<img alt="lain" src="https://github.com/user-attachments/assets/dec83da0-fdbc-4b16-9830-34281eae06b3">
 </div>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=F7F7F7&vCenter=true&width=450&height=60&lines=About+me;Sobre+mim)](https://git.io/typing-svg)
