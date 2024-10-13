@@ -1,45 +1,56 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=F7F7F7&vCenter=true&width=450&height=60&lines=Hello%2C+Gustavo+is+here!;Ol%C3%A1%2C+Gustavo+est%C3%A1+aqui!)](https://git.io/typing-svg)
-
+<br>
 <div align="center">
-	<img alt="lain" src="https://github.com/user-attachments/assets/dec83da0-fdbc-4b16-9830-34281eae06b3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&duration=4000&pause=1000&color=FFFFFF&width=500&lines=%3Ch1%3EHello%2C+World!%3C%2Fh1%3E" />
 </div>
+<br>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=F7F7F7&vCenter=true&width=450&height=60&lines=About+me;Sobre+mim)](https://git.io/typing-svg)
+<img src="https://github.com/user-attachments/assets/5adebd3e-4dd2-4756-9c6f-6994ab2f44a6" alt="Lain Gif" min-width="400px" max-width="400px" width="355px" align="right">
 
-- 😎 Explorando novas tecnologias e sempre descobrindo novidades.
-- 📕 Estudando informática para internet na Etec de Santa Isabel.
-- 🤓 Fã de informática, animes e videogames.
-- ✨ Re: Zero Fã
-- 💙 Remu-rin Lover
+<h3>
+    Olá, Eu sou o Gustavo 👋🏼
+</h3>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=Languages+%26+Tools;Linguagens+%26+Ferramentas)](https://git.io/typing-svg)
+<p align="left" style="padding: 2px;"> 
+    Sou estudante de informática para internet na Etec de Santa Isabel com foco em front-end. Gosto de trabalhar com interfaces e deixar a web bonita. <i>"A vida é uma série de escolhas; faça as que te fazem feliz." — Rem</i>.
+</p>
 
-<div style="display: inline_block">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-</div>
+<p align="left">
+    <h4>
+        ⌨️ Linguagens:
+    </h4>
+    <section>
+	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </section>
+</p>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=Working+environment;Ambiente+de+trabalho)](https://git.io/typing-svg)
+<p align="left">
+    <h4>
+        💻 Sistemas & Ferramentas:
+    </h4>
+    <section>
+	<img alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+    	<img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    </section>
+</p>
 
-<div style="display: inline_block">
-	<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-	<img align="center" alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-</div>
+<h4 align="left">
+  ✉️ Para entrar em contato:
+</h4>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=Where+to+contact;Onde+entrar+em+contato)](https://git.io/typing-svg)
+<p align="left">
+    <a href="#" title="Discord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="mailto:gustavoppietrosantana@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="#" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-<div style="display: inline_block">
-	<a href="mailto:gustavoppietrosantana@gmail.com">
-		<img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-</div>
+<p align="left">
+    <h4>
+        Estatísticas do GitHub:
+    </h4>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guto-off&theme=github_dark&show_icons=true" align/>
+</p>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=GitHub+Stats;Estat%C3%ADsticas+do+GitHub)](https://git.io/typing-svg)
-
-<div>
-	<a href="https://github.com/guto-off" title="Perfil do Gustavo">
- 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guto-off&theme=omni&show_icons=true"/>
-	</a>
-</div>																										
