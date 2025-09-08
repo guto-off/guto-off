@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/853ce09b-c057-48bf-9e0e-58660d152fdd" />
+    <img src="https://github.com/user-attachments/assets/5adebd3e-4dd2-4756-9c6f-6994ab2f44a6" alt="Lain Gif" min-width="400px" max-width="400px" width="355px" align="right">
 </div>
 <br>
 
@@ -28,6 +28,6 @@
     <h4>
         Estatísticas do GitHub:
     </h4>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guto-off&theme=github_dark&show_icons=true" align/>
     <img height="140em" src="https://github.com/user-attachments/assets/853ce09b-c057-48bf-9e0e-58660d152fdd" align/>
 </p>
-
