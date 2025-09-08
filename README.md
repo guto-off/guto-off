@@ -28,6 +28,6 @@
     <h4>
         Estatísticas do GitHub:
     </h4>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guto-off&theme=github_dark&show_icons=true" align/>
+    <img height="140em" src="https://github.com/user-attachments/assets/853ce09b-c057-48bf-9e0e-58660d152fdd" align/>
 </p>
 
