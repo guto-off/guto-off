@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<img src="https://github.com/user-attachments/assets/a802aa11-a3ca-4e4b-a836-3c56c2668752" alt="Terminator" min-width="400px" max-width="400px" width="355px" align="right">
+<img src="https://github.com/user-attachments/assets/6c56834e-ceda-4446-9d0c-162a743ecb14" alt="abyss" min-width="400px" max-width="400px" width="355px" align="right">
 
 <h3>
     Olá, Eu sou o Gustavo 🫩
