@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<img src="https://github.com/user-attachments/assets/6c56834e-ceda-4446-9d0c-162a743ecb14" alt="abyss" min-width="400px" max-width="400px" width="300px" align="right">
+<img src="https://github.com/user-attachments/assets/562b8d74-385a-4fc8-9684-1bff94c2d949" alt="abyss" min-width="400px" max-width="400px" width="300px" align="right">
 
 <h3>
     Olá, Eu sou o Gustavo 🫩
