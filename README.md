@@ -23,10 +23,3 @@
     	<img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
     </section>
 </p>
-
-<p align="left">
-    <h4>
-        Estatísticas do GitHub:
-    </h4>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guto-off&theme=github_dark&show_icons=true" align/>
-</p>
