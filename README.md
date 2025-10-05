@@ -4,14 +4,14 @@
 </div>
 <br>
 
-<img src="https://github.com/user-attachments/assets/e48fd025-66fc-4d0c-959b-75971ff39efb" alt="abyss" min-width="400px" max-width="400px" width="350px" align="right">
+<img src="https://github.com/user-attachments/assets/7c3778f1-f1d5-46f2-9695-8ca33fd7abaf" alt="abyss" min-width="400px" max-width="400px" width="350px" align="right">
 
 <h3>
-    Olá, Eu sou o Gustavo 🫩
+    Olá, Eu sou o Gustavo
 </h3>
 
 <p align="left" style="padding: 2px;"> 
-    Sou estudante de informática para internet na Etec de Santa Isabel. <i>"Idiot! I wouldn't betray you. I'm too chivalrous." — Eikichi Onizuka</i>.
+    Sou estudante de informática para internet na Etec de Santa Isabel.
 </p>
 
 <p align="left">
